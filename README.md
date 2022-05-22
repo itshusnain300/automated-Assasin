@@ -1,1 +1,1 @@
-# automated-Assasin
+# Automated-Assasins
